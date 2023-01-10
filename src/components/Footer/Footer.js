@@ -9,32 +9,29 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Chat</LinkTitle>
-          <LinkItem href="https://t.me/lordarcadius">Telegram</LinkItem>
+          <LinkTitle>Telegram</LinkTitle>
+          <LinkItem href="https://t.me/UsmanHanafi">UsmanHanafi</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:hey@vipuljha.com">
-            hey@vipuljha.com
+          <LinkItem href="mailto:usmanhanafit@gmail.com">
+            usmanhanafit@gmail.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>&copy; 2021 <Link href="https://www.vipuljha.com">  Vipul Jha</Link> . All rights reserved.</Slogan>
+          <Slogan>&copy; 2023 <Link href="/">  Tholib Usman Hanafi</Link> . All rights reserved.</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/lordarcadius">
+          <SocialIcons href="https://github.com/usmanhanafi">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/in/lordarcadius/">
+          <SocialIcons href="https://www.linkedin.com/in/usman-hanafi/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.instagram.com/lordarcadius">
+          <SocialIcons href="https://www.instagram.com/usmanafie">
             <AiFillInstagram size="3rem" />
-          </SocialIcons>
-          <SocialIcons href="https://www.twitter.com/lordarcadius">
-            <AiFillTwitterCircle size="3rem" />
           </SocialIcons>
         </SocialContainer>
       </SocialIconsContainer>

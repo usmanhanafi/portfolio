@@ -11,7 +11,7 @@ const NavDropDown = (props) => (
         <AiFillPhone />
       </DropDownIcon>
       <DropDownTextContainer>
-        <DropDownItemTitle>Phone</DropDownItemTitle>
+        <DropDownItemTitle>Whatsapp</DropDownItemTitle>
         <DropDownItemDesc>Let's get together and have a chat?'</DropDownItemDesc>
       </DropDownTextContainer>
     </DropDownItem>
@@ -30,7 +30,7 @@ const NavDropDown = (props) => (
       </DropDownIcon>
       <DropDownTextContainer>
         <DropDownItemTitle>Address</DropDownItemTitle>
-        <DropDownItemDesc>1405, Angelus Dr, Florissant. Mo</DropDownItemDesc>
+        <DropDownItemDesc>Seyegan, Sleman, Yogyakarta, Indonesia.</DropDownItemDesc>
       </DropDownTextContainer>
     </DropDownItem>
   </DropDownContainer>
